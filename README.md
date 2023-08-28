@@ -27,8 +27,17 @@ This project aims to classify Iris flowers into their respective species using m
 # Machine Learning Model
  * DecisionTreeClassifier Model
 
+
+
 # Dataset Description
 The Iris dataset contains 150 samples of Iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The target variable is the species of the Iris flower, which can be one of three possible values: setosa, versicolor, or virginica.
+
+
+![Screenshot (1492)](https://github.com/Harshshu-89/Iris-Flower-Classification-Machine-Learning-Project/assets/133030406/5d3bad48-62b2-46b7-a4b6-9880fa2a7a33)
+
+
+![Screenshot (1491)](https://github.com/Harshshu-89/Iris-Flower-Classification-Machine-Learning-Project/assets/133030406/57f71f2d-241b-40b1-be0f-f08f8949cdb6)
+
 
 
 # Conclusion
